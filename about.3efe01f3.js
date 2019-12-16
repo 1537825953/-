@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{"9a02":function(e,n,t){},f820:function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},c=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("i",[e._v("伐沙士大夫撒大多数")])])}],r={},u=r,f=(t("ffe1"),t("2877")),i=Object(f["a"])(u,a,c,!1,null,"2913205b",null);n["default"]=i.exports},ffe1:function(e,n,t){"use strict";var a=t("9a02"),c=t.n(a);c.a}}]);
+//# sourceMappingURL=about.3efe01f3.js.map
